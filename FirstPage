@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Unlce Prestons Big Ole House of Fun</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One" 
+rel="stylesheet" type="text/css">
+    <!-- the below three lines are a fix to get HTML5 semantic elements working in old versions of 
+Internet Explorer-->
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+    <![endif]-->
+  </head>
+  <!-- I included the body element below which is not part of the html version or the head to make
+    make sure you include it above your HTML code -->
+  <body>
+    <h1> Welcome to Uncle Prestons Big Ole House of Fun!</h1>
+    <p>Remember to have fun and enjoy the ride!</p>
+    <p>“Life should not be a journey to the grave with the intention of arriving safely in a pretty and well preserved body,
+        but rather to skid in broadside in a cloud of smoke, thoroughly used up, totally worn out, and loudly proclaiming
+        "Wow! What a Ride!”
+        <strong>― Hunter S. Thompson, The Proud Highway: Saga of a Desperate Southern Gentleman, 1955-1967</strong></p>
+        <p> For a look into Hunter S. Thompsons life visit <a href="https://en.wikipedia.org/wiki/Hunter_S._Thompson">this site</a>.</p>
+        <img src="https://assets3.thrillist.com/v1/image/1796189/size/tmg-article_default_mobile.jpg">
+ </body>
+</html>
+
